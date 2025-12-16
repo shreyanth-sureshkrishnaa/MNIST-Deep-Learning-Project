@@ -11,9 +11,6 @@ from tensorflow.keras.models import Sequential # In this model, data flows in on
 from tensorflow.keras.layers import Dense, Dropout
 from tensorflow.keras.utils import to_categorical # Needed for categorical_crossentropy
 
-
-
-
 def main():
 
     # Setting a seed ensures approximately the same results across different runs.
