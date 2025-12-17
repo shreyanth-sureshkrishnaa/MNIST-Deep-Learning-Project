@@ -24,8 +24,6 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
----
-
 ## How to Run
 
 Run the main script:
@@ -61,3 +59,4 @@ This project is intended for learning and understanding the fundamentals of deep
 ## License
 
 Educational use only.
+
